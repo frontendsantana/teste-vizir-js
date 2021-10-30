@@ -1,0 +1,24 @@
+.TableInfos {
+    margin-left: 5em;
+    width: 456px;
+    border: 1px solid #ddd;
+    border-collapse: separate;
+    border-radius: 8px;
+    border-spacing: 0;
+}
+
+tr {
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    
+}
+
+th {
+    color: #AB49CE
+}
+
+td,th {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+
+}

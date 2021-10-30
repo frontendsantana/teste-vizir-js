@@ -1,0 +1,26 @@
+.WrapperTop {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+span {
+    
+    display: flex
+}
+
+.Logo {
+    margin-left: 450px;
+}
+
+.WrapperTop a {
+    color: #A23DDF;
+    margin-left: 10px;
+
+}
+
+.Divider {
+    width: 100%;
+    margin-left: 0;
+    border: 1px solid #CBB7A5;
+}

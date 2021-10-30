@@ -1,0 +1,49 @@
+.InfosWrapper {
+    background-color: #FFE8D3;
+    padding: 40px;
+    
+}
+
+.ContainerInfosWrapper {
+    display: flex;
+}
+
+.ContainerInfos {
+    margin: 40px;
+}
+
+.ContainerInfos .ItensInfos  {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.ContainerInfos h3 {
+    margin-bottom: 10px;
+}
+
+.ContainerInfos .ItensInfos span {
+
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+.Divider{
+    width: 90%;
+    border: 1px solid gray;
+    margin-left: 30px;
+}
+
+.LogoName {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.LogoName span:nth-child(2) {
+    margin-top: 10px;
+    margin-left: 20px;
+}

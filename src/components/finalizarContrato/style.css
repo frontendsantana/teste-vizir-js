@@ -1,0 +1,38 @@
+.FinalizarWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 30px;
+    
+}
+
+.FinalizarWrapper h1 {
+    font-weight: normal;
+}
+
+.FinalizarWrapper h4 {
+    font-size: 24px;
+    margin-top: 40px;
+}
+
+.InputsFinalizarWrapper {
+    display: flex;
+}
+
+.inputsFinalizar {
+    margin: 40px;
+}
+
+.inputsFinalizar span{
+    display: flex;
+    flex-direction: column;
+}
+
+.inputsFinalizar span > input {
+    width: 394px;
+    height: 40px;
+    border: 1px solid #E5E5E5;
+    border-radius: 8px;
+    margin-top: 10px;
+}

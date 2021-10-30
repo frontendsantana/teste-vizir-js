@@ -1,0 +1,27 @@
+.CalculoWrapper {
+    
+    min-height: 50vh;
+    height: auto;
+    background-color: #FFE8D3;
+    display: flex;
+    padding: 40px;
+    
+}
+
+h4 {
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.TitleCalculo {
+    width: 40vw;
+}
+
+.TitleCalculo p {
+    margin-top: 15px;
+    max-width: 298px;
+    color: #666666;
+    
+}
+

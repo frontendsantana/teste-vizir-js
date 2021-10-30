@@ -1,0 +1,46 @@
+.TotalWrapper {
+    position: absolute;
+    top: 70px;
+    display: flex;
+    background-color: white;
+    width: 690px;
+    align-items: center;
+    padding: 15px;
+    justify-content: space-between;
+    border-top: 2px solid #E5E5E5;
+    height: 180px;
+    border-radius: 8px;
+    
+}
+
+.TotalWrapper h4 {
+
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.Line {
+    position: absolute;
+    top: 130px;
+    width: 95%;
+    border: 1px solid #E5E5E5;
+    
+}
+
+.BtnContratarTotal {
+    background-color:  #AB49CE;
+    width: 302px;
+    height: 48px;  
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    border: none;
+    position: absolute;
+    top: 150px;
+    left: 220px;
+    cursor: pointer;
+}
+
+.BtnContratarTotal:active {
+    transform: scale(0.9);
+}

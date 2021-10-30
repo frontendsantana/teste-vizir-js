@@ -1,0 +1,114 @@
+.PlanosWrapper {
+    padding: 30px;
+
+   
+}
+
+.ContainerWrapperPlano {
+    display: flex;
+}
+
+.PlanosTitleWrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.PlanosTitleWrapper h1 {
+    font-weight: 500;
+}
+
+.PlanosTitleWrapper p {
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    max-width: 543px;
+    color: #666666;
+    margin: 30px 0px;
+}
+
+.ContainerPlano {
+    width: 310px;
+    height: 490px;
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid #E5E5E5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 0px 20px;
+}
+
+.ContainerPlano .VectorPlano {
+    position: relative;
+}
+
+.NumeroPlano,.NumeroPlanoPerson {
+    
+    position: absolute;
+    margin-top: 30px;
+    color: #FFFFFF;
+}
+
+
+.MiddlePlano {
+    margin: 30px;
+    text-align: center;
+}
+
+.PricePlano {
+    
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+}
+
+.PricePlano h2 {
+font-size: 40px;
+margin-right: 5px;
+}
+
+.PricePlano span {
+    font-size: 16px;
+    
+}
+
+.TitlesPlano {
+    text-align: center;
+}
+.TitlesPlano p:last-child {
+    margin-top: 15px;
+    font-weight: bold;
+}
+.BonusPlano {
+    color: #666666;
+    display: flex;
+    flex-direction: column;
+}
+
+.BonusPlano span {
+    margin-top: 15px;
+}
+
+.BonusPlano img {
+    margin-right: 5px;
+    
+}
+
+.btnContratar {
+    width: 131px;
+    padding: 12px;
+    border: 1px solid #AB49CE;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    font-weight: 900;
+    color: #AB49CE;
+    font-size: 16px;
+   
+}

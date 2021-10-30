@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100&display=swap');
+
+.Container {
+    background-image: url("../../images/afro-woman-talking-on-the-phone-XT3ZQY9\ 1.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-width: 100vw;
+    min-height: 70vh;
+    width: auto;
+    height: auto;
+    font-family: 'Roboto';
+    position: relative;
+}
+
+.topBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 60px;
+    align-items: center;
+}
+
+.Logo {
+    position: relative;
+
+}
+
+.Logo > h6 {
+    position: absolute;
+    top: 25px;
+    color: white;
+    left: 19px;
+    font-size: 15px;
+}
+
+ul {
+    display: flex;
+
+}
+
+ul > li {
+    list-style: none;
+    margin-left: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+
+.BtnContratar {
+    background-color:  #AB49CE;
+    width: 143px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    transform: translateY(-8px);
+    border-radius: 8px;
+    color: white;
+}
+
+.Middle {
+    position: absolute;
+    left: 10em;
+    top: 10em;
+    width: 40em;
+}
+
+.Middle .Head {
+    font-size: 70px;
+    margin-bottom: 10px;
+}
+
+.Middle .Desc {
+    max-width: 400px;
+    margin-bottom: 20px;
+}
+
+.Middle > a {
+    background-color: transparent;
+    width: 143px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    border: 1px solid #AB49CE;
+    color: #AB49CE;
+    font-weight: bold;
+}
+
