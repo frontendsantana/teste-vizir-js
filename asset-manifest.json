@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/frontendsantana.github.io/teste-vizir-js/static/css/main.00fb1578.chunk.css",
+    "main.js": "/frontendsantana.github.io/teste-vizir-js/static/js/main.35a1c443.chunk.js",
+    "main.js.map": "/frontendsantana.github.io/teste-vizir-js/static/js/main.35a1c443.chunk.js.map",
+    "runtime-main.js": "/frontendsantana.github.io/teste-vizir-js/static/js/runtime-main.b2a962e2.js",
+    "runtime-main.js.map": "/frontendsantana.github.io/teste-vizir-js/static/js/runtime-main.b2a962e2.js.map",
+    "static/js/2.a54628c9.chunk.js": "/frontendsantana.github.io/teste-vizir-js/static/js/2.a54628c9.chunk.js",
+    "static/js/2.a54628c9.chunk.js.map": "/frontendsantana.github.io/teste-vizir-js/static/js/2.a54628c9.chunk.js.map",
+    "index.html": "/frontendsantana.github.io/teste-vizir-js/index.html",
+    "static/css/main.00fb1578.chunk.css.map": "/frontendsantana.github.io/teste-vizir-js/static/css/main.00fb1578.chunk.css.map",
+    "static/js/2.a54628c9.chunk.js.LICENSE.txt": "/frontendsantana.github.io/teste-vizir-js/static/js/2.a54628c9.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/frontendsantana.github.io/teste-vizir-js/static/media/afro-woman-talking-on-the-phone-XT3ZQY9 1.27466d39.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2a962e2.js",
+    "static/js/2.a54628c9.chunk.js",
+    "static/css/main.00fb1578.chunk.css",
+    "static/js/main.35a1c443.chunk.js"
+  ]
+}
